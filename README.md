@@ -17,4 +17,4 @@ To run this project, you need to have Python installed on your system. You can d
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/JCruz06/Caesar-cipher-shift.git
